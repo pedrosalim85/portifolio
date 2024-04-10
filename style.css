@@ -2,7 +2,7 @@
 .bgimage {
     height:100vh;
     width:device-width;
-    background: url('bg.jpg');
+    background: black;
     background-size:cover;
     position:relative;
     background-position:center;
@@ -83,7 +83,7 @@
 }
 
 /* espaçando as seções */
-#about, #services, #portfolio, #contact {
+#about, #videos, #sites {
     margin-top: 4rem;
     padding-top: 4rem;
 }
@@ -109,3 +109,4 @@
     paddint-top:5rem;
     padding-bottom: 3rem;
 }
+
